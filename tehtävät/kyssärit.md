@@ -9,3 +9,7 @@
 - [ ] Käytä *etunimi.sukunimi.md* *Markdown* muotoiluja (https://www.markdownguide.org/basic-syntax/)   
 - [ ] Puske muutokset paikallisessa hakemistossa (vastauksesi) kloonattuun repositorioon omassa GitHub:ssasi
 - [ ] Tee minulle tekemistäsi vastuksista Pull request omasta GitHub ympäristöstäsi käsin.
+
+Vinkkejä löydät esim.  
+https://github.com/JouniJokelainen/GitAndGitHub/edit/main/README.md  
+https://evanwill.github.io/get-git-b/  
