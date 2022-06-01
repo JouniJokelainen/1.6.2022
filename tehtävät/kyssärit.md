@@ -10,6 +10,12 @@
 - [ ] Puske muutokset paikallisessa hakemistossa (vastauksesi) kloonattuun repositorioon omassa GitHub:ssasi
 - [ ] Tee minulle tekemistäsi vastuksista *Pull request* omasta GitHub ympäristöstäsi käsin.
 
+### Kysymykset
+- Mitä eri vaihtoehtoja VirtualBox ohjelmalle on saatavissa (ilmaisia tai maksullisia)? Toisin sanoen millä muilla ohjelmilla tietokoneita voidaan virtualisoida?
+- Miksi sysprep.exe ohjelmaa käytetään? Missä tilanteessa sitä yleensä käytetään?
+- Windows asennuksen yhteydessä voidaan käyttää ns. vastaustiedostoa. Mitä hyötyä siitä on? Mitä sillä saadaan aikaan?
+- Mitä eri versiota Windows Server tuotteesta on saatavilla?
+
 Vinkkejä löydät esim.  
 https://github.com/JouniJokelainen/GitAndGitHub/edit/main/README.md  
 https://evanwill.github.io/get-git-b/  
